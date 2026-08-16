@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://windsorpondscape.ca/sitemap.xml
